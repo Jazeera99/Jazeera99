@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **Fresh Graduate** in D3 Informatics Engineering from **Universitas Logistik & Bisnis Internasional (ULBI)** with GPA **3.96 / 4.00**.
+- 🎓 **Fresh Graduate** in Diploma Informatics Engineering from **Universitas Logistik & Bisnis Internasional (ULBI)** with GPA **3.96 / 4.00**.
 - 🏆 Awarded **Mahasiswi Berprestasi 2024** with a perfect **4.00 GPA**.
 - 💻 Specialized in **Full Stack Web Development** using **React.js, Vue 3, Tailwind CSS, Laravel, Express.js, GraphQL, REST API, PostgreSQL and MySQL**.
 - 📍 Currently based in **Bandung, Indonesia** (until Sept 20, 2026) and permanently in **Surabaya, Indonesia**.
