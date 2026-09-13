@@ -1,4 +1,4 @@
-# Hi there, I'm Laura Diva! 👋
+h# Hi there, I'm Laura Diva! 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E90FA&width=500&lines=Full+Stack+Web+Developer;D3+Informatics+Engineering+ULBI;AI+%26+Machine+Learning+Enthusiast;Mahasiswi+Berprestasi+2024" alt="Typing SVG" />
@@ -8,8 +8,7 @@
 
 - 🎓 **Fresh Graduate** in Diploma Informatics Engineering from **Universitas Logistik & Bisnis Internasional (ULBI)** with GPA **3.96 / 4.00**.
 - 🏆 Awarded **Mahasiswi Berprestasi 2024** with a perfect **4.00 GPA**.
-- 💻 Specialized in **Full Stack Web Development** using **React.js, Vue 3, Tailwind CSS, Laravel, Express.js, GraphQL, REST API, PostgreSQL and MySQL**.
-- 📍 Currently based in **Bandung, Indonesia** (until Sept 20, 2026) and permanently in **Surabaya, Indonesia**.
+- 💻 Specialized in **Full Stack Web Development** using **TypeScript, React.js, Vue 3, Tailwind CSS, Laravel, Express.js, GraphQL, REST API, PostgreSQL and MySQL**.
 
 ---
 
@@ -58,9 +57,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Sistem Inventory** | Web manajemen stok inventaris terintegrasi dengan kontrol expired date & penyesuaian stok. | Vue 3, TypeScript, Laravel, MySQL |
-| **Rain Point SPG** | Aplikasi mobile perolehan poin insentif & pemantauan target penjualan SPG. | Vue 3, TypeScript |
+| **Sistem Inventory** | Web manajemen stok inventaris terintegrasi dengan kontrol expired date dan penyesuaian stok. | Vue 3, TypeScript, Laravel, MySQL |
+| **Rain Point SPG** | Aplikasi mobile perolehan poin insentif dan pemantauan target penjualan SPG. | Vue 3, TypeScript |
 | **Courtly** | Sistem reservasi lapangan olahraga terintegrasi dengan pemantauan jadwal real-time. | TypeScript, React.js, GraphQL, Express.js, PostgreSQL |
-| **SmartHomeCal** | Aplikasi estimasi harga properti berbasis AI/Machine Learning & kalkulator kelayakan finansial. | Python, Streamlit, ML |
+| **SmartHomeCal** | Aplikasi estimasi harga properti berbasis AI/Machine Learning dan kalkulator kelayakan finansial. | Python, Streamlit, ML |
 | **KuyKontak (Contact API)** | Aplikasi mobile first untuk pengelolaan dan penyimpanan data kontak pengguna. | Flutter, Dart |
 | **Peminjaman Ruangan** | Sistem pengajuan dan manajemen peminjaman fasilitas ruangan kampus. | Laravel, Blade, MySQL |
