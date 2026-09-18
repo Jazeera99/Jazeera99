@@ -1,7 +1,7 @@
-h# Hi there, I'm Laura Diva! 👋
+Hi there, I'm Laura Diva! 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E90FA&width=500&lines=Full+Stack+Web+Developer;D3+Informatics+Engineering+ULBI;AI+%26+Machine+Learning+Enthusiast;Mahasiswi+Berprestasi+2024" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E90FA&width=500&lines=Full+Stack+Web+Developer;Peraih+IPK+Tertinggi+(3.96);Mahasiswi+Berprestasi+2024;Diploma+Informatics+Engineering+ULBI;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## 👩‍💻 About Me
